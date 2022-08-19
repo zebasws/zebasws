@@ -5,7 +5,7 @@ npm i $zebasws-bitches
 ```css
 /*
 * @info: I am a normal person who tries to be better in life and programming.
-* @Lenguages: Javascript, Typescript,
+* @Lenguages: Javascript, Typescript
 */
 ```
 # Contact Me
