@@ -8,3 +8,6 @@ npm i $zebasws-bitches
 * @Lenguages: Javascript, Typescript,
 */
 ```
+# Contact Me
+<img src="https://discord.c99.nl/widget/theme-1/568821865276243969.png">
+
