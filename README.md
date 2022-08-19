@@ -1,5 +1,5 @@
 # Zebasws - Hello!
-````ssh
+```ssh
 npm i $zebasws-bitches
 ```
 ```css
