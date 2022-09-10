@@ -1,4 +1,4 @@
-# Zebasws - Hello!
+# Hello!
 ```ssh
 npm i $zebasws-bitches
 ```
